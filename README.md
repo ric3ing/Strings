@@ -23,7 +23,7 @@ In particolare, il programma dovrà eseguire diverse operazioni sulla stringa ch
 
 # Esempi di metodi creati per il realizzamento del programma
 
-## Funzioni usata per replicare *ToUpper()*
+## Funzione usata per replicare *ToUpper()*
 
 ```
 char ToUpper(char c)
