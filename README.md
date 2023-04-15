@@ -10,7 +10,7 @@ La consegna richiede la creazione di un programma che tratti la **manipolazione 
   * IsNumber()
   * StringBuilder
 
-In particolare, il programma dovrà eseguire diverse operazioni sulla chiesta inserita input:
+In particolare, il programma dovrà eseguire diverse operazioni sulla stringa chiesta inserita input:
 
 * Trasformarla nella sua versione in caps lock
 * Trasformarla nella sua versione minuscola
